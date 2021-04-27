@@ -2,8 +2,6 @@ import os
 import numpy as np
 import cv2
 
-import matplotlib.pyplot as plt
-
 def main():
     a = b = c = d = e = f = g = h = k = 0
     data_dir = 'data/hand'
